@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Movie-Recommendation-App",
-    "slug": "Movie-Recommendation-App",
+    "name": "Movie-Recommendation",
+    "slug": "Movie-Recommendation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
